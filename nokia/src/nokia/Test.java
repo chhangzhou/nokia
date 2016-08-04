@@ -5,4 +5,7 @@ public class Test {
 	  System.out.print("a");
   }
      private String a = "";
+     
+     
+     private String b = "1";
 }
